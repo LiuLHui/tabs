@@ -90,14 +90,6 @@
         // 事件驱动函数
 
         invoke: function (currentTab) {
-            //保存一下 调用方法的this指向
-
-
-            // 问题
-            // 调用的时候 this指向调用对象
-            //  那如何取得上面类里面的this 调用的时候改变的this 会不会改变
-            //  方法里面的this指向
-            // console.log(this)
 
 
             /*2
